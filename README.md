@@ -1,4 +1,3 @@
-
 ## Linear Regression with Polynomial Models
 
 This is our Project 2 submission for our machine learning class
@@ -11,6 +10,7 @@ This is our Project 2 submission for our machine learning class
 ### Notes
 
 Some of the Notebooks may have trouble displaying due to incompatibilities between git and Jupyter Notebooks.
+Please see the submission branch for our final version.
 
 ### References
 

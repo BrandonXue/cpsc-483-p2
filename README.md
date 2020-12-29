@@ -1,7 +1,7 @@
 
-# CPSC 483-02 Project 2
+# CPSC \*\*\*-02 Project 2
 
-This is our submission for CPSC 483-02 (Section ID: 33018), Project 2
+This is our submission for CPSC \*\*\*-02 (Section ID: \*\*\*\*\*), Project 2
 
 ## Group Members
 
@@ -10,7 +10,7 @@ This is our submission for CPSC 483-02 (Section ID: 33018), Project 2
 
 ## Notes
 
-Please see the Jupyter Notebook named *cpsc_483_p2*
+This branch contains Mike's work. Please see the submission branch for our final version.
 
 ## References
 
